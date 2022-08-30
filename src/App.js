@@ -1,14 +1,12 @@
 import React from 'react'
 import Login from './screens/Login'
 import Home from './screens/Home'
-import Register from './screens/Register'
-
+import register from './screens/register'
 function App() {
-  return (
-    <div>
-      
-    </div>
-  )
+  return<div>
+  Registration app
+   </div>;
+  
 }
 
 export default App
